@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qemu_fw_cfg.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/qemu_fw_cfg.h usr/include/linux/qemu_fw_cfg.h

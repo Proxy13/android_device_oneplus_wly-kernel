@@ -1,0 +1,1 @@
+cmd_usr/include/linux/byteorder/little_endian.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/byteorder/little_endian.h usr/include/linux/byteorder/little_endian.h

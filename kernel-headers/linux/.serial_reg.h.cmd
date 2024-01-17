@@ -1,0 +1,1 @@
+cmd_usr/include/linux/serial_reg.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/serial_reg.h usr/include/linux/serial_reg.h

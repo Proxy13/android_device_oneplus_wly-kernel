@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/rdma_user_ioctl.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/rdma/rdma_user_ioctl.h usr/include/rdma/rdma_user_ioctl.h

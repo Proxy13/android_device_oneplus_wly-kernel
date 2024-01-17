@@ -1,0 +1,1 @@
+cmd_usr/include/linux/map_to_7segment.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/map_to_7segment.h usr/include/linux/map_to_7segment.h

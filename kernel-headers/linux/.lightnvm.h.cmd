@@ -1,0 +1,1 @@
+cmd_usr/include/linux/lightnvm.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/lightnvm.h usr/include/linux/lightnvm.h

@@ -1,0 +1,1 @@
+cmd_usr/include/video/uvesafb.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/video/uvesafb.h usr/include/video/uvesafb.h

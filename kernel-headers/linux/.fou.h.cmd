@@ -1,0 +1,1 @@
+cmd_usr/include/linux/fou.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/fou.h usr/include/linux/fou.h

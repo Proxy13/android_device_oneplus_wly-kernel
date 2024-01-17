@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/bpf_perf_event.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/asm-generic/bpf_perf_event.h usr/include/asm-generic/bpf_perf_event.h

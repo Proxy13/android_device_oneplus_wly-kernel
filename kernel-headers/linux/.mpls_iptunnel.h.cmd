@@ -1,0 +1,1 @@
+cmd_usr/include/linux/mpls_iptunnel.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/mpls_iptunnel.h usr/include/linux/mpls_iptunnel.h

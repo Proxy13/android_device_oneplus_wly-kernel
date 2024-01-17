@@ -1,0 +1,1 @@
+cmd_usr/include/linux/can/error.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/can/error.h usr/include/linux/can/error.h

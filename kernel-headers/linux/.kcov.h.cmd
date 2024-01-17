@@ -1,0 +1,1 @@
+cmd_usr/include/linux/kcov.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/kcov.h usr/include/linux/kcov.h

@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/i40iw-abi.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/rdma/i40iw-abi.h usr/include/rdma/i40iw-abi.h

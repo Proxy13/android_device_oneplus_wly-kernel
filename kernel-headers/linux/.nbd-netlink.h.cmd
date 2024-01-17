@@ -1,0 +1,1 @@
+cmd_usr/include/linux/nbd-netlink.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/nbd-netlink.h usr/include/linux/nbd-netlink.h

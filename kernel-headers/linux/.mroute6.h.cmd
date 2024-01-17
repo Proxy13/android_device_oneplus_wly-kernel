@@ -1,0 +1,1 @@
+cmd_usr/include/linux/mroute6.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/mroute6.h usr/include/linux/mroute6.h

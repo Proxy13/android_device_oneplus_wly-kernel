@@ -1,0 +1,1 @@
+cmd_usr/include/linux/msm_dsps.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/msm_dsps.h usr/include/linux/msm_dsps.h

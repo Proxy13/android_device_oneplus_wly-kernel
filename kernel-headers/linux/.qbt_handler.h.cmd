@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qbt_handler.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/qbt_handler.h usr/include/linux/qbt_handler.h

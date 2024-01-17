@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/bnxt_re-abi.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/rdma/bnxt_re-abi.h usr/include/rdma/bnxt_re-abi.h

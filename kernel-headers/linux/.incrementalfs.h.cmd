@@ -1,0 +1,1 @@
+cmd_usr/include/linux/incrementalfs.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/incrementalfs.h usr/include/linux/incrementalfs.h

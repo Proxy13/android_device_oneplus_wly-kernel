@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dvb/dmx.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/dvb/dmx.h usr/include/linux/dvb/dmx.h

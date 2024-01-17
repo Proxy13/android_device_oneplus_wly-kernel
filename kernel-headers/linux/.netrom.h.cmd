@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netrom.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/netrom.h usr/include/linux/netrom.h

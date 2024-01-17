@@ -1,0 +1,1 @@
+cmd_usr/include/linux/reboot.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/reboot.h usr/include/linux/reboot.h

@@ -1,0 +1,1 @@
+cmd_usr/include/sound/asound_fm.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/sound/asound_fm.h usr/include/sound/asound_fm.h

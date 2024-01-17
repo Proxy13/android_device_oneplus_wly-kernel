@@ -1,0 +1,1 @@
+cmd_usr/include/linux/sock_diag.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/sock_diag.h usr/include/linux/sock_diag.h

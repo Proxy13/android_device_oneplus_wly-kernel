@@ -1,0 +1,1 @@
+cmd_usr/include/linux/fscrypt.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/fscrypt.h usr/include/linux/fscrypt.h

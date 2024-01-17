@@ -1,0 +1,1 @@
+cmd_usr/include/linux/lirc.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/lirc.h usr/include/linux/lirc.h

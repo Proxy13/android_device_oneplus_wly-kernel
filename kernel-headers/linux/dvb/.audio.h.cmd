@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dvb/audio.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/dvb/audio.h usr/include/linux/dvb/audio.h

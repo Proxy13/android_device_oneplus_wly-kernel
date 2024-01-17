@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vboxguest.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/vboxguest.h usr/include/linux/vboxguest.h

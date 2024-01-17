@@ -1,0 +1,1 @@
+cmd_usr/include/linux/eventpoll.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/eventpoll.h usr/include/linux/eventpoll.h

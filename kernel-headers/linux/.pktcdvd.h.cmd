@@ -1,0 +1,1 @@
+cmd_usr/include/linux/pktcdvd.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/pktcdvd.h usr/include/linux/pktcdvd.h

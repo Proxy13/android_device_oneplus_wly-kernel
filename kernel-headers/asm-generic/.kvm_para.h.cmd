@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/kvm_para.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/asm-generic/kvm_para.h usr/include/asm-generic/kvm_para.h

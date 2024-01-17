@@ -1,0 +1,1 @@
+cmd_usr/include/linux/efs_fs_sb.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/efs_fs_sb.h usr/include/linux/efs_fs_sb.h

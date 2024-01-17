@@ -1,0 +1,1 @@
+cmd_usr/include/asm/posix_types.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/arch/arm64/include/uapi/asm/posix_types.h usr/include/asm/posix_types.h

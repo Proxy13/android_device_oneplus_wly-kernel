@@ -1,0 +1,1 @@
+cmd_usr/include/video/sisfb.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/video/sisfb.h usr/include/video/sisfb.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/cm4000_cs.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/cm4000_cs.h usr/include/linux/cm4000_cs.h

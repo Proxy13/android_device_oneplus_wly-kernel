@@ -1,0 +1,1 @@
+cmd_usr/include/linux/taskstats.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/taskstats.h usr/include/linux/taskstats.h

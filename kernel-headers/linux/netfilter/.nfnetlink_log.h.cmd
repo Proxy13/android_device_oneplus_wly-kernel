@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter/nfnetlink_log.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/netfilter/nfnetlink_log.h usr/include/linux/netfilter/nfnetlink_log.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/omap3isp.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/omap3isp.h usr/include/linux/omap3isp.h

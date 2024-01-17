@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/inftl-user.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/mtd/inftl-user.h usr/include/mtd/inftl-user.h

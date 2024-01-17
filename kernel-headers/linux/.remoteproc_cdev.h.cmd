@@ -1,0 +1,1 @@
+cmd_usr/include/linux/remoteproc_cdev.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/remoteproc_cdev.h usr/include/linux/remoteproc_cdev.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/auto_fs.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/auto_fs.h usr/include/linux/auto_fs.h

@@ -1,0 +1,1 @@
+cmd_usr/include/asm/bitsperlong.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/arch/arm64/include/uapi/asm/bitsperlong.h usr/include/asm/bitsperlong.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/selinux_netlink.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/selinux_netlink.h usr/include/linux/selinux_netlink.h

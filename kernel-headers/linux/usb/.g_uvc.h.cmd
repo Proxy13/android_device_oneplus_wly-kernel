@@ -1,0 +1,1 @@
+cmd_usr/include/linux/usb/g_uvc.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/usb/g_uvc.h usr/include/linux/usb/g_uvc.h

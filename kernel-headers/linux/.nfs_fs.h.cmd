@@ -1,0 +1,1 @@
+cmd_usr/include/linux/nfs_fs.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/nfs_fs.h usr/include/linux/nfs_fs.h

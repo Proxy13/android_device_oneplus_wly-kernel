@@ -1,0 +1,1 @@
+cmd_usr/include/linux/am437x-vpfe.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/am437x-vpfe.h usr/include/linux/am437x-vpfe.h

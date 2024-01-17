@@ -1,0 +1,1 @@
+cmd_usr/include/linux/filter.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/filter.h usr/include/linux/filter.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vtpm_proxy.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/vtpm_proxy.h usr/include/linux/vtpm_proxy.h

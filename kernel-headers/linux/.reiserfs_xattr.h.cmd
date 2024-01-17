@@ -1,0 +1,1 @@
+cmd_usr/include/linux/reiserfs_xattr.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/reiserfs_xattr.h usr/include/linux/reiserfs_xattr.h

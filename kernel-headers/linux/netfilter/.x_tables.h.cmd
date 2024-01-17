@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter/x_tables.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/netfilter/x_tables.h usr/include/linux/netfilter/x_tables.h

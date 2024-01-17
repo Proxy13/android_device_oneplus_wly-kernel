@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ppp-ioctl.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/ppp-ioctl.h usr/include/linux/ppp-ioctl.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/bcache.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/bcache.h usr/include/linux/bcache.h

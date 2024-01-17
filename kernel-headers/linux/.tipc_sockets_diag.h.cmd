@@ -1,0 +1,1 @@
+cmd_usr/include/linux/tipc_sockets_diag.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/tipc_sockets_diag.h usr/include/linux/tipc_sockets_diag.h

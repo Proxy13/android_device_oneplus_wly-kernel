@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ipmi.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/ipmi.h usr/include/linux/ipmi.h

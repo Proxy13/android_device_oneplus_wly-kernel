@@ -1,0 +1,1 @@
+cmd_usr/include/linux/atmsvc.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/atmsvc.h usr/include/linux/atmsvc.h

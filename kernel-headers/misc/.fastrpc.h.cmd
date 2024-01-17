@@ -1,0 +1,1 @@
+cmd_usr/include/misc/fastrpc.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/misc/fastrpc.h usr/include/misc/fastrpc.h

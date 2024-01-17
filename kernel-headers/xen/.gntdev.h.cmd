@@ -1,0 +1,1 @@
+cmd_usr/include/xen/gntdev.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/xen/gntdev.h usr/include/xen/gntdev.h

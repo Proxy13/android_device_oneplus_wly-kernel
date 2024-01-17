@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/rvt-abi.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/rdma/rvt-abi.h usr/include/rdma/rvt-abi.h

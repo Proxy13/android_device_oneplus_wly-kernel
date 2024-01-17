@@ -1,0 +1,1 @@
+cmd_usr/include/sound/sof/tokens.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/sound/sof/tokens.h usr/include/sound/sof/tokens.h

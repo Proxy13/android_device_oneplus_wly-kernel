@@ -1,0 +1,1 @@
+cmd_usr/include/linux/auxvec.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/auxvec.h usr/include/linux/auxvec.h

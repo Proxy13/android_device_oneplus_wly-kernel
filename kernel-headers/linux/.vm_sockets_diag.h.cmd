@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vm_sockets_diag.h := sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/scripts/headers_install.sh /home/machad3x/android/crDroid/kernel/oneplus/sm8450/include/uapi/linux/vm_sockets_diag.h usr/include/linux/vm_sockets_diag.h
